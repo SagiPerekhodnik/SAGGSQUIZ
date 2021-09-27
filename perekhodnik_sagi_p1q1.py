@@ -1,5 +1,5 @@
 # Example of <OUTPUT>
-print("I'm GreetingsBot.")
+print("I'm QuizzyBot.")
 print()
 
 # Say hi and then ask for the user's name
@@ -13,5 +13,5 @@ username = input ()
 print(f"Cool! It's nice to meet you {username}.")
 print()
 
-# Ask the user what their favourite book is
+# Tell the user we are quizzing them
 print("let's have a quiz")
