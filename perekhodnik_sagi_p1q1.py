@@ -52,7 +52,7 @@ else:
     print("score: ", score)
     print("\n")
 print()
-
+ 
 # Ask the user Question 3.
 answer3 = input("What is Sagi's favourite sport? \na. swimming \nb. soccer \nc. hockey \nd. volleyball \nAnswer: ")
 if answer3 == "b" or answer3 == "Israel":
