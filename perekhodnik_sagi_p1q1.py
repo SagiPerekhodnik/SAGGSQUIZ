@@ -2,7 +2,6 @@
 # Author: Sagi
 # Date: September 27 2021
 
-from rich import print
 # Create a bot that asks the user 5 questions about me. Every time the user says yes, the points increase. Every time the user says no, the points decrease.
 
 # Introduce the bot
