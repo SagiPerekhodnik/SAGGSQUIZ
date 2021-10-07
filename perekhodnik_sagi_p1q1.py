@@ -20,21 +20,22 @@ print()
 # Ask the user Question 1.
 answer1 = input("When is Sagi's birthday? \na. June 4 \nb. December 17 \nc. November 27 \nd. February 10 \nAnswer: ")
 if answer1 == "c" or answer1 == "November 27":
-    score = 0
+    score == 0
     score += 1
     print("Correct")
-    print("Score: ", score)
+    print("score: ", score)
     print("\n")
 else:
-    print("Incorrect! The answer was Israel.")
-    print("score: ", score)
+    score = 0
+    score += 1
+    print("Incorrect! The answer was November 27.")
+    print("Score: ", score)
     print("\n")
 print()
 
 # Ask the user Question 2.
 answer2 = input("Where was Sagi born? \na. Canada \nb. Israel \nc. Russia \nd. Ukraine \nAnswer: ")
 if answer2 == "b" or answer2 == "Israel":
-    score == 0
     score += 1
     print("Correct")
     print("Score: ", score)
@@ -47,7 +48,7 @@ print()
 
 # Ask the user Question 3.
 answer3 = input("What is Sagi's favourite sport? \na. swimming \nb. soccer \nc. hockey \nd. volleyball \nAnswer: ")
-if answer3 == "b" or answer3 == "Israel":
+if answer3 == "a" or answer3 == "swimming":
     score = 0
     score += 1
     print("Correct")
@@ -68,7 +69,7 @@ if answer4 == "a" or answer4 == "37":
     print("Score: ", score)
     print("\n")
 else:
-    print("Incorrect! The answer was Israel.")
+    print("Incorrect! The answer was 37.")
     print("score: ", score)
     print("\n")
 print()
